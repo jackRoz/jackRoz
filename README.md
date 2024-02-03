@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Jack Roz 👋
 
-<!--
-**jackRoz/jackRoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm an Influencer passionate about [your area of influence].
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 [Your educational background]
+- 💼 [Your current job or project]
+- 🌐 [Your website or portfolio]
+
+## Social Media
+
+- [Instagram](https://www.instagram.com/jackRoz)
+- [YouTube](https://www.youtube.com/jackRoz)
+- [Twitter](https://twitter.com/jackRoz)
+- [LinkedIn](https://www.linkedin.com/in/jackRoz)
+
+## Skills
+
+- [List of your skills]
+
+## Featured Projects
+
+- [Project 1](https://github.com/jackRoz/project1)
+- [Project 2](https://github.com/jackRoz/project2)
+
+## Contact
+
+Feel free to reach out: [email@example.com]
+
+Let's connect and collaborate! 🚀
